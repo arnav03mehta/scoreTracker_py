@@ -1,0 +1,31 @@
+c1 = pygame.Rect(buttons[0],dim)
+c2 = pygame.Rect(buttons[1],dim)
+c3 = pygame.Rect(buttons[2],dim)
+c4 = pygame.Rect(buttons[3],dim)
+c5 = pygame.Rect(buttons[4],dim)
+c6 = pygame.Rect(buttons[5],dim)
+c7 = pygame.Rect(buttons[6],dim)
+c8 = pygame.Rect(buttons[7],dim)
+c9 = pygame.Rect(buttons[8],dim)
+c10 = pygame.Rect(buttons[9],dim)
+c11 = pygame.Rect(buttons[10],dim)
+c12 = pygame.Rect(buttons[11],dim)
+c13 = pygame.Rect(buttons[12],dim)
+
+    pygame.draw.rect(screen,yellow_ish,c1)
+    pygame.draw.rect(screen,yellow_ish,c2)
+    pygame.draw.rect(screen,yellow_ish,c3)
+    pygame.draw.rect(screen,yellow_ish,c4)
+    pygame.draw.rect(screen,yellow_ish,c5)
+    pygame.draw.rect(screen,yellow_ish,c6)
+    pygame.draw.rect(screen,yellow_ish,c7)
+    pygame.draw.rect(screen,yellow_ish,c8)
+    pygame.draw.rect(screen,yellow_ish,c9)
+    pygame.draw.rect(screen,yellow_ish,c10)
+    pygame.draw.rect(screen,yellow_ish,c11)
+    pygame.draw.rect(screen,yellow_ish,c12)
+    pygame.draw.rect(screen,yellow_ish,c13)
+
+questions : 1,398
+examples : 419
+
